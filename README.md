@@ -1,6 +1,6 @@
 ## Olá, eu sou a Natalia Gonçalves
 
-Atualmente estou estudando C++
+Atualmente estou estudando C
 
 Pronouns: ela/dela
 
